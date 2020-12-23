@@ -5,15 +5,15 @@ module.exports = {
   baseUrl: '/',
   onBrokenLinks: 'warn',
   onBrokenMarkdownLinks: 'warn',
-  favicon: 'img/favicon.ico',
+  favicon: 'https://cdn.razorpay.com/logos/GEP7EbaTyp9248_medium.png',
   organizationName: 'facebook', // Usually your GitHub org/user name.
   projectName: 'docusaurus', // Usually your repo name.
   themeConfig: {
     navbar: {
       title: 'InfinitzHost',
       logo: {
-        alt: 'My Site Logo',
-        src: 'img/logo.svg',
+        alt: 'InfinitzHost Logo',
+        src: 'https://cdn.razorpay.com/logos/GEP7EbaTyp9248_medium.png',
       },
       items: [
         {
@@ -22,7 +22,6 @@ module.exports = {
           label: 'Docs',
           position: 'left',
         },
-        {to: 'blog', label: 'Blog', position: 'left'},
         {
           href: 'https://github.com/InfinitzHost/KnowledgeBase',
           label: 'GitHub',
@@ -40,26 +39,26 @@ module.exports = {
               label: 'Style Guide',
               to: 'docs/',
             },
-            {
-              label: 'Second Doc',
-              to: 'docs/doc2/',
-            },
           ],
         },
         {
           title: 'Community',
           items: [
             {
-              label: 'Stack Overflow',
-              href: 'https://stackoverflow.com/questions/tagged/docusaurus',
+              label: 'Facebook',
+              href: 'https://www.facebook.com/InfinitzHost.India',
             },
             {
               label: 'Discord',
-              href: 'https://discordapp.com/invite/docusaurus',
+              href: 'https://discord.gg/sq4ccuDFM6',
             },
             {
-              label: 'Twitter',
-              href: 'https://twitter.com/docusaurus',
+              label: 'Instagram',
+              href: 'https://www.instagram.com/infinitzhost/',
+            },
+            {
+              label: 'Youtube',
+              href: 'https://www.youtube.com/channel/UCsjbT50QtGJeXB4TTMyoX0A/featured',
             },
           ],
         },
@@ -67,17 +66,17 @@ module.exports = {
           title: 'More',
           items: [
             {
-              label: 'Blog',
-              to: 'blog',
+              label: 'Dashboard',
+              href: 'https://dash.infinitzhost.com',
             },
             {
               label: 'GitHub',
-              href: 'https://github.com/facebook/docusaurus',
+              href: 'https://github.com/InfinitzHost',
             },
           ],
         },
       ],
-      copyright: `Copyright © ${new Date().getFullYear()} My Project, Inc. Built with Docusaurus.`,
+      copyright: `Copyright © ${new Date().getFullYear()} InfinitzHost`,
     },
   },
   presets: [
