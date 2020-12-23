@@ -1,6 +1,6 @@
 module.exports = {
   title: 'InfinitzHost KnowledgeBase',
-  tagline: 'The tagline of my site',
+  tagline: 'This knowledge base is filled with articles detailing many common operations and common issues. If you need any help with your hosting, this is the place to start!',
   url: 'https://infinitzhost.netlify.app/',
   baseUrl: '/',
   onBrokenLinks: 'warn',
@@ -24,7 +24,7 @@ module.exports = {
         },
         {to: 'blog', label: 'Blog', position: 'left'},
         {
-          href: 'https://github.com/facebook/docusaurus',
+          href: 'https://github.com/InfinitzHost/KnowledgeBase',
           label: 'GitHub',
           position: 'right',
         },
