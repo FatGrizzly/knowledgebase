@@ -1,7 +1,7 @@
 module.exports = {
   title: 'InfinitzHost KnowledgeBase',
   tagline: 'This knowledge base is filled with articles detailing many common operations and common issues. If you need any help with your hosting, this is the place to start!',
-  url: 'https://infinitzhost.netlify.app/',
+  url: 'https://infinitzhost.netlify.app',
   baseUrl: '/',
   onBrokenLinks: 'warn',
   onBrokenMarkdownLinks: 'warn',
