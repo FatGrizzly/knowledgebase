@@ -12,22 +12,33 @@ Domain names convert IP addresses like 172.67.157.139  to readable domains like 
 How to buy a domain?
 
 
-NAMECHEAP
+### NameCheap.com
 
-Go to namecheap.com
+Go to Namecheap.com
+
 Search on their domain checker for your domain name.
+
 After you have selected your domain name click on the Add to cart button.
+
 Then click on the checkout button
+
 Login or Signup.
+
 After Fill in your information and click continue and follow the instructions you see on screen
+
 Now you are a proud owner of a domain name!
 
-Freenom.com
+### Freenom.com
 
 Go to freenom.com and search for your domain. Use any of their free domains.
+
 Click on go to cart.
+
 Login or Signup for freenom
+
 Fill in your details (NO CREDIT CARD REQUIRED)
+
 Checkout
+
 Now you have a Freenom domain.
 
