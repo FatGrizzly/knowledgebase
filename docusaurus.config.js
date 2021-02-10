@@ -1,13 +1,13 @@
 module.exports = {
   title: 'InfinitzHost KnowledgeBase',
   tagline: 'This knowledge base is filled with articles detailing many common operations and common issues. If you need any help with your hosting, this is the place to start!',
-  url: 'https://suppor.infinitzhost.com',
+  url: 'https://support.infinitzhost.com',
   baseUrl: '/',
   onBrokenLinks: 'warn',
   onBrokenMarkdownLinks: 'warn',
   favicon: 'https://cdn.razorpay.com/logos/GEP7EbaTyp9248_medium.png',
-  organizationName: 'facebook', // Usually your GitHub org/user name.
-  projectName: 'docusaurus', // Usually your repo name.
+  organizationName: 'fatgrizzly', // Usually your GitHub org/user name.
+  projectName: 'knowledgebase', // Usually your repo name.
   themeConfig: {
     navbar: {
       title: 'InfinitzHost',
@@ -23,24 +23,25 @@ module.exports = {
           position: 'left',
         },
         {
-          href: 'https://github.com/InfinitzHost',
+          href: 'https://dash.infinitzhost.com',
+          label: 'Dashboard',
+          position: 'left',
+        },
+        {
+          href: 'https://github.com/FatGrizzly/Knowledgebase',
           label: 'GitHub',
-          position: 'right',
+          position: 'left',
+        },
+        {
+          href: 'https://status.infinitzhost.com',
+          label: 'StatusPage',
+          position: 'left',
         },
       ],
     },
     footer: {
-      style: 'dark',
+      style: 'light',
       links: [
-        {
-          title: 'Docs',
-          items: [
-            {
-              label: 'Style Guide',
-              to: 'docs/',
-            },
-          ],
-        },
         {
           title: 'Community',
           items: [
@@ -73,6 +74,10 @@ module.exports = {
               label: 'GitHub',
               href: 'https://github.com/InfinitzHost',
             },
+            {
+              label: 'StatusPage',
+              href: 'https://status.infinitzhost.com',
+            },
           ],
         },
       ],
@@ -87,7 +92,7 @@ module.exports = {
           sidebarPath: require.resolve('./sidebars.js'),
           // Please change this to your repo.
           editUrl:
-            'https://github.com/facebook/docusaurus/edit/master/website/',
+            'https://github.com/fatgrizzly/knowledgebase',
         },
         blog: {
           showReadingTime: true,
