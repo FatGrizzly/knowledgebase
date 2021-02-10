@@ -4,7 +4,7 @@ title: Nameservers
 sidebar_label: Setting up your domain
 slug: /
 ---
-In this article, you will learn how to set your name servers to our AdYou Hosting server! For this tutorial, we will be using GoDaddy. You might have another provider but the steps are the same. Refer to your domain support for help if necessary.
+In this article, you will learn how to set your name servers to InfinitzHost! For this tutorial, we will be using GoDaddy. You might have another provider but the steps are the same. Refer to your domain support for help if necessary.
 
 What Is a Name Server? Name servers help connect URLs with the IP address of web servers. Name servers are an important part of the Domain Name System (DNS), which many people call the “phone book of the Internet”.
 
