@@ -17,6 +17,6 @@ Step – 2:   Scroll Down to Name servers.
 Step – 3:   Enter the name servers for free hosting, set the Name Servers as dns3.infinitzhost.com and dns4.infinitzhost.com. For Premium hosting, set the name servers as dns1.infinitzhost.com and dns2.infinitzhost.com.
 
 Step – 4:   Wait for propagation. DNS propagation can take up to 24hrs but It usually takes 20-30 minutes but yours may propagate faster.
-:::info
+:::tip
 Use [WhatsmyDNS](https://whatsmydns.net) to check dns propagation!
 :::
