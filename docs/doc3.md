@@ -6,5 +6,8 @@ sidebar_label: Using FTP
 
 We will now see how to connect to the server via FTP(File Transfer Protocol).
 :::tip
-We recommend using [FileZilla](https://google.com)
+We recommend using [FileZilla](https://filezilla-project.org/)
 :::
+
+Use any FTP client you prefer.
+
